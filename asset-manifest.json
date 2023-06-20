@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/React-pizza/static/css/main.8c4fafa8.css",
+    "main.js": "/React-pizza/static/js/main.5e9d5556.js",
+    "static/js/787.3a33840f.chunk.js": "/React-pizza/static/js/787.3a33840f.chunk.js",
+    "static/media/salad.jpg": "/React-pizza/static/media/salad.dc90cdd1343b51bca250.jpg",
+    "static/media/classic-pizza.jpg": "/React-pizza/static/media/classic-pizza.d716577bedea9f52ba99.jpg",
+    "static/media/specialty-pizza.jpg": "/React-pizza/static/media/specialty-pizza.bdb52cc6e1381d16f286.jpg",
+    "static/media/deal2.png": "/React-pizza/static/media/deal2.1a3a136170ce6cb6457e.png",
+    "static/media/soda.jpg": "/React-pizza/static/media/soda.42694fe5abc1345de7e1.jpg",
+    "static/media/deal3.png": "/React-pizza/static/media/deal3.f7d3f9065fac52d25cc6.png",
+    "static/media/wings.jpg": "/React-pizza/static/media/wings.2a4ea6805486ebdf2f61.jpg",
+    "static/media/deal1.png": "/React-pizza/static/media/deal1.ff622c25aa0ca48772f8.png",
+    "static/media/pizza-background.png": "/React-pizza/static/media/pizza-background.1df09b0a984b416bf36d.png",
+    "static/media/custom-pizza.jpg": "/React-pizza/static/media/custom-pizza.a20b4c10ca04be210ad2.jpg",
+    "static/media/Uber-Eats-Logo.png": "/React-pizza/static/media/Uber-Eats-Logo.202bd0c58e86c73df5ac.png",
+    "static/media/interior.jpg": "/React-pizza/static/media/interior.78fa8cf65e8b9a75b86d.jpg",
+    "static/media/skip-logo.png": "/React-pizza/static/media/skip-logo.34062a744fa12086e181.png",
+    "index.html": "/React-pizza/index.html",
+    "main.8c4fafa8.css.map": "/React-pizza/static/css/main.8c4fafa8.css.map",
+    "main.5e9d5556.js.map": "/React-pizza/static/js/main.5e9d5556.js.map",
+    "787.3a33840f.chunk.js.map": "/React-pizza/static/js/787.3a33840f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c4fafa8.css",
+    "static/js/main.5e9d5556.js"
+  ]
+}
